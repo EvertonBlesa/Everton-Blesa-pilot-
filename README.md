@@ -11,4 +11,4 @@
 Nome: Everton Blesa
 Área: Análise e Desenvolvimento de Sistemas
 Foco: Desenvolvimento Web | Back-end | Banco de Dados
-Missão: "Transformar ideias em soluções tecnológicas criativas"
+Missão: Transformar ideias em soluções tecnológicas criativas.
